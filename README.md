@@ -1,1 +1,3 @@
-# Sanke
+# Snake
+
+Classic snake game
