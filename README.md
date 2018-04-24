@@ -29,3 +29,14 @@
 * When you lose 
 
 
+### Screenshots
+
+
+![intro](images/imgSnakeIntro.png)
+
+![square](images/imgSnakeSquare.png)
+
+![pause](images/imgSnakePaused.png)
+
+![game over](images/imgSnakeGameOver.png)
+
