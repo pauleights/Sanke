@@ -29,14 +29,11 @@
 * When you lose 
 
 
-### Screenshots
+### Screenshots :
 
+<img src="images/imgSnakeIntro.png" width="300">
+<img src="images/imgSnakeSquare.png" width="300">
+<img src="images/imgSnakePaused.png" width="300">
+<img src="images/imgSnakeGameOver.png" width="300">
 
-![intro](images/imgSnakeIntro.png)
-
-![square](images/imgSnakeSquare.png)
-
-![pause](images/imgSnakePaused.png)
-
-![game over](images/imgSnakeGameOver.png)
 
