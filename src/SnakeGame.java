@@ -177,7 +177,7 @@ public class SnakeGame extends JPanel {
         @Override
         public void actionPerformed(ActionEvent e) {
 
-            if ( inGame ){
+            if ( inGame && !gameOver ){
 
                 pause = !pause;
 
