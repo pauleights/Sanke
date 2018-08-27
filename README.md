@@ -28,6 +28,7 @@
 * When the snake eats 
 * When you lose 
 
+### To play the game download the executable jar file.
 
 ### Screenshots :
 
